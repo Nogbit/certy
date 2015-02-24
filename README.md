@@ -5,7 +5,7 @@
 [![Dependency Status](https://david-dm.org/Nogbit/certy.svg)](https://david-dm.org/Nogbit/certy)
 [![devDependency Status](https://david-dm.org/Nogbit/certy/dev-status.svg)](https://david-dm.org/Nogbit/certy#info=devDependencies)
 
-Simply generates all the necessary certificates for client and server TLS handshaking.  The end result can be used when you need a mock server that enforces client certification authentication.
+Simply generates all the necessary certificates for client and server TLS handshaking.  The end result can be used when you need a mock server that enforces client certificate authentication.
 
 ### Install
 
