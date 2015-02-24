@@ -1,6 +1,6 @@
 {
   "name": "certy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quick and simple certs for your node web server.",
   "main": "dist/library-dist.js",
   "scripts": {
